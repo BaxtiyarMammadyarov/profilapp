@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.title-s{
+    display: flex;
+   
+    justify-content: space-between;
+    
+}

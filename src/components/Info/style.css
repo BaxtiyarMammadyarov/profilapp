@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+.name-surname {
+  display: flex;
+  width: 40%;
+  margin: 10px;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+.name-surname img {
+width: 200px;
+margin: 2px;
+
+}

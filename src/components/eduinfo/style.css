@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.eduinfo{
+    width: 90%;
+    margin:15px;
+  padding: 5px;
+    color: aliceblue;
+    border: 1px solid   rgb(45, 48, 80);
+    text-align: center;
+}
+.eduinfo h3,p,span{
+  
+    margin: 3px;
+  
+    border: 1px solid   rgb(93, 98, 146);
+
+}

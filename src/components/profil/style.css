@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+  }
+.profil-s{
+ width: 80%;
+ padding: auto;
+ margin-top: 20px ;
+
+ margin-left: 150px;
+ background-color:rgb(77, 79, 99);
+
+
+}

@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+  }
+
+.skills{
+    display: block;
+    width: 80%;
+    margin: 5px;
+    justify-content: space-between;
+    background-color:rgb(77, 79, 99);
+}
+.skills button{
+    width: 100%;
+    text-align: left;
+    background-color:rgb(77, 79, 99);
+    color: floralwhite;
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px;
+  
+    
+}
