@@ -12,7 +12,8 @@ function Contact() {
     {
         label: "Phone",
         val: "+994-55-200-92-61"
-    }, {
+    }, 
+    {
         label: "Country",
         val: "Baki Azərbaycan"
     }
